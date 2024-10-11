@@ -149,6 +149,13 @@ const About = () => {
             backgroundImage="https://media.istockphoto.com/id/1388451454/vector/sign-language-tutor-isolated-cartoon-vector-illustration.jpg?s=612x612&w=0&k=20&c=OwWBLnuy8PtfDG5GVESTVDkJG8Lw5p2iWxpV8Idb7qI="  // Replace with your image URL
           />
 
+          <ProjectCard  
+            title="Disney+ App"
+            description="A full-stack web application that mimics the Disney+ homepage by utilizing the IMDB API."
+            link="https://danielgeorge922.github.io/disneyplus/"
+            backgroundImage="https://lumiere-a.akamaihd.net/v1/images/disney_originals_web_c4e4ba17.jpeg?region=0%2C0%2C3458%2C1948"  // Replace with your image URL
+          />
+
           {/* Project Card 3 */}
           <ProjectCard
             title="Automated Class Scheduler"
